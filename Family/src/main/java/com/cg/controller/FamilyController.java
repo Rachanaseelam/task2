@@ -19,10 +19,12 @@ public class FamilyController {
 	@GetMapping("/families")
 	public List<Family> getFamilies(){
 		List<Family> fs=new ArrayList<>();
+		
 		fs.add(new  Family(3, "Bvrm", "Ramesh"));
 		fs.add(new  Family(2, "Vizag", "Mahesh"));
 		fs.add(new  Family(1, "Nellore", "Suresh"));
 		fs.add(new  Family(5, "warangal", "Dheeresh"));
+		
 		return fs;
 	}
 	
