@@ -1,6 +1,8 @@
 GitRepositoriesView.GitDirectories=C\:\\Users\\serachan\\Documents\\workspace-spring-tool-suite-4-4.20.1.task\\.git;
 GitRepositoriesView.GitDirectories.relative=.git;
-RepositoryGroups.uuids=
+RepositoryGroups.a2b9f121-27ae-47ac-af06-7c0650080af3=New Group
+RepositoryGroups.group.a2b9f121-27ae-47ac-af06-7c0650080af3=
+RepositoryGroups.uuids=a2b9f121-27ae-47ac-af06-7c0650080af3
 RepositorySearchDialogSearchPath=C\:\\Users\\serachan\\Documents\\workspace-spring-tool-suite-4-4.20.1.task
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
