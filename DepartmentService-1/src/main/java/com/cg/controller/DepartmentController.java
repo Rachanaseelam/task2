@@ -13,7 +13,7 @@ import com.cg.dto.DepartmentDto;
 import com.cg.service.DepartmentService;
 
 @RestController
-@RequestMapping("/departments")
+@RequestMapping("/api/departments")
 public class DepartmentController {
 	private DepartmentService departmentService;
 
